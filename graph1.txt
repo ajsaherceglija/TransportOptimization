@@ -1,0 +1,256 @@
+Obstacle on path E -> F: high constructions or medics helicopter
+Obstacle on path G -> I: medics helicopter
+Obstacle on path K -> I: foggy
+Source A:
+A -> A: 0s
+A -> B: -1s
+A -> C: -1s
+A -> D: -1s
+A -> E: -1s
+A -> F: 98s
+A -> G: -1s
+A -> H: -1s
+A -> I: -1s
+A -> J: -1s
+A -> K: -1s
+A -> L: -1s
+A -> M: -1s
+A -> N: -1s
+A -> O: -1s
+
+Source B:
+B -> A: 7s
+B -> B: 0s
+B -> C: -1s
+B -> D: -1s
+B -> E: -1s
+B -> F: 105s
+B -> G: -1s
+B -> H: -1s
+B -> I: -1s
+B -> J: -1s
+B -> K: -1s
+B -> L: -1s
+B -> M: -1s
+B -> N: -1s
+B -> O: -1s
+
+Source C:
+C -> A: -1s
+C -> B: -1s
+C -> C: 0s
+C -> D: 97s
+C -> E: 25s
+C -> F: 34s
+C -> G: 150s
+C -> H: 160s
+C -> I: -1s
+C -> J: 152s
+C -> K: 196s
+C -> L: 251s
+C -> M: 248s
+C -> N: 177s
+C -> O: -1s
+
+Source D:
+D -> A: -1s
+D -> B: -1s
+D -> C: 159s
+D -> D: 0s
+D -> E: 174s
+D -> F: 148s
+D -> G: 53s
+D -> H: 63s
+D -> I: -1s
+D -> J: 55s
+D -> K: 99s
+D -> L: 154s
+D -> M: 151s
+D -> N: 80s
+D -> O: -1s
+
+Source E:
+E -> A: -1s
+E -> B: -1s
+E -> C: -1s
+E -> D: -1s
+E -> E: 0s
+E -> G: -1s
+E -> H: -1s
+E -> I: -1s
+E -> J: -1s
+E -> K: -1s
+E -> L: -1s
+E -> M: -1s
+E -> N: -1s
+E -> O: -1s
+
+Source F:
+F -> A: -1s
+F -> B: -1s
+F -> C: -1s
+F -> D: -1s
+F -> E: -1s
+F -> F: 0s
+F -> G: -1s
+F -> H: -1s
+F -> I: -1s
+F -> J: -1s
+F -> K: -1s
+F -> L: -1s
+F -> M: -1s
+F -> N: -1s
+F -> O: -1s
+
+Source G:
+G -> A: -1s
+G -> B: -1s
+G -> C: 121s
+G -> D: 77s
+G -> E: 146s
+G -> F: 107s
+G -> G: 0s
+G -> H: 140s
+G -> J: 132s
+G -> K: 176s
+G -> L: 113s
+G -> M: 228s
+G -> N: 39s
+G -> O: -1s
+
+Source H:
+H -> A: -1s
+H -> B: -1s
+H -> C: 96s
+H -> D: 193s
+H -> E: 121s
+H -> F: 130s
+H -> G: 246s
+H -> H: 0s
+H -> I: -1s
+H -> J: 248s
+H -> K: 292s
+H -> L: 347s
+H -> M: 344s
+H -> N: 273s
+H -> O: -1s
+
+Source I:
+I -> A: 101s
+I -> B: 94s
+I -> C: 65s
+I -> D: 114s
+I -> E: 90s
+I -> F: 99s
+I -> G: 167s
+I -> H: 177s
+I -> I: 0s
+I -> J: 83s
+I -> K: 127s
+I -> L: 182s
+I -> M: 26s
+I -> N: 108s
+I -> O: -1s
+
+Source J:
+J -> A: -1s
+J -> B: -1s
+J -> C: 107s
+J -> D: 31s
+J -> E: 119s
+J -> F: 93s
+J -> G: 84s
+J -> H: 94s
+J -> I: -1s
+J -> J: 0s
+J -> K: 44s
+J -> L: 99s
+J -> M: 96s
+J -> N: 25s
+J -> O: -1s
+
+Source K:
+K -> A: -1s
+K -> B: -1s
+K -> C: 74s
+K -> D: 110s
+K -> E: 75s
+K -> F: 82s
+K -> G: 117s
+K -> H: 56s
+K -> I: -1s
+K -> J: 79s
+K -> K: 0s
+K -> L: 66s
+K -> M: 175s
+K -> N: 14s
+K -> O: -1s
+
+Source L:
+L -> A: -1s
+L -> B: -1s
+L -> C: 8s
+L -> D: 105s
+L -> E: 33s
+L -> F: 42s
+L -> G: 51s
+L -> H: 168s
+L -> I: -1s
+L -> J: 160s
+L -> K: 204s
+L -> L: 0s
+L -> M: 256s
+L -> N: 90s
+L -> O: -1s
+
+Source M:
+M -> A: -1s
+M -> B: -1s
+M -> C: 39s
+M -> D: 136s
+M -> E: 64s
+M -> F: 73s
+M -> G: 189s
+M -> H: 199s
+M -> I: -1s
+M -> J: 191s
+M -> K: 235s
+M -> L: 290s
+M -> M: 0s
+M -> N: 216s
+M -> O: -1s
+
+Source N:
+N -> A: -1s
+N -> B: -1s
+N -> C: 82s
+N -> D: 179s
+N -> E: 107s
+N -> F: 68s
+N -> G: 125s
+N -> H: 242s
+N -> I: -1s
+N -> J: 234s
+N -> K: 278s
+N -> L: 74s
+N -> M: 330s
+N -> N: 0s
+N -> O: -1s
+
+Source O:
+O -> A: -1s
+O -> B: -1s
+O -> C: 31s
+O -> D: 128s
+O -> E: 56s
+O -> F: 65s
+O -> G: 181s
+O -> H: 191s
+O -> I: -1s
+O -> J: 183s
+O -> K: 227s
+O -> L: 282s
+O -> M: 279s
+O -> N: 208s
+O -> O: 0s
+

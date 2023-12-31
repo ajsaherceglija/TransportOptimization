@@ -1,0 +1,15 @@
+Source A:
+A -> A: 0s
+A -> B: 14s
+A -> C: 5s
+
+Source B:
+B -> A: 32s
+B -> B: 0s
+B -> C: 36s
+
+Source C:
+C -> A: 41s
+C -> B: 9s
+C -> C: 0s
+
