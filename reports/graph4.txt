@@ -1,7 +1,7 @@
-Obstacle on path A -> B: high constructions
 Source A:
 A -> A: 0s
-A -> C: -1s
+A -> B: 10s
+A -> C: 30s
 
 Source B:
 B -> A: 25s
@@ -10,6 +10,6 @@ B -> C: 20s
 
 Source C:
 C -> A: 5s
-C -> B: -1s
+C -> B: 15s
 C -> C: 0s
 

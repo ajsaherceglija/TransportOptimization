@@ -86,7 +86,7 @@ public class Graph {
 
     static ArrayList<String> getPlaces() throws IOException {
         ArrayList<String> places = new ArrayList<>();
-        Scanner s = new Scanner(new File("places.txt"));
+        Scanner s = new Scanner(new File("input/places.txt"));
         s.nextLine();
 
         while (s.hasNextLine()) {

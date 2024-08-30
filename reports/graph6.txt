@@ -1,4 +1,5 @@
-Obstacle on path G -> I: medics helicopter
+Obstacle on path K -> D: foggy
+Obstacle on path K -> L: foggy
 Obstacle on path N -> M: high constructions
 Source A:
 A -> A: 0s
@@ -141,6 +142,7 @@ G -> E: 78s
 G -> F: 108s
 G -> G: 0s
 G -> H: 18s
+G -> I: 117s
 G -> J: 110s
 G -> K: 66s
 G -> L: -1s
@@ -223,7 +225,6 @@ Source K:
 K -> A: 180s
 K -> B: 181s
 K -> C: 55s
-K -> D: 87s
 K -> E: 82s
 K -> F: 42s
 K -> G: 133s

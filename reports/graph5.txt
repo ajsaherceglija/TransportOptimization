@@ -1,4 +1,3 @@
-Obstacle on path B -> D: foggy
 Source A:
 A -> A: 0s
 A -> B: 80s
@@ -7,16 +6,17 @@ A -> D: 63s
 A -> E: 65s
 
 Source B:
-B -> A: 83s
+B -> A: 79s
 B -> B: 0s
-B -> C: 94s
-B -> E: 43s
+B -> C: 58s
+B -> D: 23s
+B -> E: 25s
 
 Source C:
 C -> A: 81s
 C -> B: 26s
 C -> C: 0s
-C -> D: 52s
+C -> D: 49s
 C -> E: 23s
 
 Source D:
